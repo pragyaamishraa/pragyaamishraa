@@ -17,6 +17,16 @@
 
 <br/>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7C3AED&background=00000000&center=true&vCenter=true&width=600&lines=%24+whoami;Pragya+Mishra+%E2%80%94+turning+coffee+into+code+since+2024;%24+cat+spellbook.txt;Python+%2B+Flask+%2B+React+%2B+Generative+AI;%24+./cast_spell.sh+--target%3Ddreamjob;Casting...+%E2%9C%A8+Compiling+ambition+into+production" alt="terminal" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7c3aed,100:f472b6&height=3&width=1000" width="100%"/>
+</div>
+
 ## 👩‍💻 Who I Am
 
 ```typescript
@@ -45,7 +55,19 @@ const pragya = {
 };
 ```
 
+<details>
+<summary>✨ <b>Click to reveal my origin story</b></summary>
 <br/>
+
+I started out as an Automation Analyst, quietly automating the boring stuff — until I got hooked on building things people actually *use*. That itch turned into four shipped projects: an AI stadium-ops assistant, a Gemini-powered decision engine, a real-time collaborative whiteboard, and a Spotify-integrated music app. Now I'm chasing SDE, Full Stack, and Backend roles at product companies — Amazon, Microsoft, ambitious startups, and yes, Google is the dream. 🎯
+
+</details>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:7c3aed,100:000000&height=3&width=1000" width="100%"/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -121,6 +143,10 @@ A Spotify-powered music web app built with OAuth 2.0 integration for a personali
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7c3aed,100:f472b6&height=3&width=1000" width="100%"/>
+</div>
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -140,6 +166,18 @@ A Spotify-powered music web app built with OAuth 2.0 integration for a personali
 <img src="https://skillicons.dev/icons?i=gemini,firebase" />
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:7c3aed,100:000000&height=3&width=1000" width="100%"/>
+</div>
+
+<div align="center">
+
+### 🔮 Today's Dev Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -164,7 +202,19 @@ A Spotify-powered music web app built with OAuth 2.0 integration for a personali
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyaamishraa&theme=react-dark&color=f472b6&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
+## 🐍 The Snake That Ate My Contributions
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/pragyaamishraa/pragyaamishraa/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+<sub align="center">⚙️ Regenerates daily via GitHub Actions — see setup note below the file.</sub>
+
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7c3aed,100:f472b6&height=3&width=1000" width="100%"/>
+</div>
 
 ## 🔗 Connect With Me
 
