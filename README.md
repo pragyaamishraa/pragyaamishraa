@@ -1,232 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7c3aed,100:f472b6&height=220&section=header&text=Pragya%20Mishra&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Automation%20Analyst%20%7C%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/pragyaamishraa/pragyaamishraa/main/assets/hero.svg" alt="Pragya Mishra — building useful software" width="100%" />
 
-<a href="https://github.com/pragyaamishraa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=640&lines=Automation+Analyst+%7C+Python+Developer;Building+PlaySic%2C+DeskShare%2C+DecideFast+%26+StadiumGuard-AI;Exploring+Generative+AI+%2B+Full+Stack+Development;Open+to+SDE+%2F+Backend+%2F+Full+Stack+opportunities" alt="Typing SVG" />
-</a>
+<br />
 
-<br/>
+[![Open to work](https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-f4c95d?style=for-the-badge&labelColor=171923)](mailto:impragya437@gmail.com)
+[![Portfolio](https://img.shields.io/badge/EXPLORE-MY_PORTFOLIO-8b5cf6?style=for-the-badge&labelColor=171923)](https://pragyamishra.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-35c3ff?style=for-the-badge&labelColor=171923&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragyamishraa)
 
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-f472b6?style=for-the-badge&logo=briefcase&logoColor=white)
+<br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=pragyaamishraa&color=f472b6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/pragyaamishraa?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github)
+<a href="#the-work">THE WORK</a> · <a href="#toolbelt">TOOLBELT</a> · <a href="#behind-the-build">BEHIND THE BUILD</a> · <a href="#signal-me">SIGNAL ME</a>
 
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7C3AED&background=00000000&center=true&vCenter=true&width=600&lines=%24+whoami;Pragya+Mishra+%E2%80%94+turning+coffee+into+code+since+2024;%24+cat+spellbook.txt;Python+%2B+Flask+%2B+React+%2B+Generative+AI;%24+./cast_spell.sh+--target%3Ddreamjob;Casting...+%E2%9C%A8+Compiling+ambition+into+production" alt="terminal" />
-</div>
+## `> whoami`
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7c3aed,100:f472b6&height=3&width=1000" width="100%"/>
-</div>
-
-## 👩‍💻 Who I Am
-
-```typescript
+```ts
 const pragya = {
-  title: "Automation Analyst | Python Developer",
-  stack: {
-    languages: ["Python", "JavaScript", "TypeScript"],
-    frontend: ["React.js"],
-    backend: ["Flask", "Node.js"],
-    aiTools: ["Google Gemini 2.5 Flash", "Generative AI / LLM integrations"],
-    database: ["Firebase"],
-    devops: ["Git", "GitHub", "Render", "Firebase Hosting"]
-  },
-  launchedProjects: [
-    "StadiumGuard-AI",
-    "DecideFast",
-    "DeskShare",
-    "PlaySic"
-  ],
-  certifications: [
-    "AWS Bootcamp Certification (GDSC / DevTown, Feb 2023)",
-    "AWS Bootcamp Certification (Microsoft Learn Student Ambassador / DevTown, Feb 2023)"
-  ],
-  status: "Automation Analyst @ HCLTech",
-  openTo: ["Backend Developer", "Full Stack Developer", "SDE"]
+  role: "Automation Analyst @ HCLTech",
+  direction: "Python · backend systems · full-stack products · generative AI",
+  superpower: "turning repetitive work and fuzzy ideas into useful software",
+  currentlySeeking: ["SDE", "Backend", "Full Stack"],
+  operatingSystem: "curious, pragmatic, relentlessly shipping"
 };
 ```
 
-<details>
-<summary>✨ <b>Click to reveal my origin story</b></summary>
-<br/>
+I build products that make a real moment feel simpler: quieter reflection, safer stadium operations, clearer data decisions, faster collaboration, and more personal music discovery. My sweet spot is the bridge between an idea and the dependable system that makes it usable.
 
-I started out as an Automation Analyst, quietly automating the boring stuff — until I got hooked on building things people actually *use*. That itch turned into four shipped projects: an AI stadium-ops assistant, a Gemini-powered decision engine, a real-time collaborative whiteboard, and a Spotify-integrated music app. Now I'm chasing SDE, Full Stack, and Backend roles at product companies — Amazon, Microsoft, ambitious startups, and yes, Google is the dream. 🎯
+<details>
+<summary><b>🪄 Open the origin story</b></summary>
+<br />
+
+I started in automation, where I learned that the best systems disappear into the background and give people time back. That instinct led me from automating workflows to shipping end-to-end products—a mindful AI journal, a stadium-ops assistant, a Gemini-powered decision engine, a collaborative whiteboard, and a Spotify-integrated web app.
+
+I’m now growing toward backend, full-stack, and SDE roles where thoughtful engineering turns ambitious ideas into something people can actually rely on.
 
 </details>
 
-<br/>
+<br />
+
+<a id="the-work"></a>
+
+## `> ls ./featured-work`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:7c3aed,100:000000&height=3&width=1000" width="100%"/>
+<img src="https://raw.githubusercontent.com/pragyaamishraa/pragyaamishraa/main/assets/project-radar.svg" alt="Five product directions: Dearly You, StadiumGuard AI, DecideFast, DeskShare, and PlaySic" width="100%" />
 </div>
 
-## 🚀 Featured Projects
+<br />
 
-### 1️⃣ StadiumGuard-AI
+| Project | What it makes possible | Built with | Explore |
+| :-- | :-- | :-- | :-- |
+| **[Dearly, You](https://github.com/pragyaamishraa/dearly-you)** | A quiet, private corner to journal, notice patterns, and receive thoughtful Gemini-powered reflection—without making journaling feel like homework. | `React` `TypeScript` `Firebase` `Gemini` | [Live demo ↗](https://dearly-you.ai.studio/) |
+| **[StadiumGuard-AI](https://github.com/pragyaamishraa/StadiumGuard-AI)** | More confident, accessible stadium operations—navigation, crowd support, emergency response, and multilingual help. | `Python` `Generative AI` | [Live demo ↗](https://stadium-guard-ai.vercel.app/) |
+| **[DecideFast](https://github.com/pragyaamishraa/DecideFast)** | From a CSV upload to grounded, three-part decisions—without the spreadsheet spiral. | `Flask` `Python` `Gemini 2.5 Flash` | [Live demo ↗](https://decidefast.onrender.com/) |
+| **[DeskShare](https://github.com/pragyaamishraa/DeskShare)** | A real-time canvas for teams to think together, sketch faster, and stay aligned. | `React` `Node.js` `Firebase` | [Live demo ↗](https://deskhare-project.web.app/) |
+| **[PlaySic](https://github.com/pragyaamishraa/Playsic)** | A personalized music experience with Spotify authentication and a human-first interface. | `Python` `Flask` `Spotify OAuth` | [Live demo ↗](https://playsic-ybmz.onrender.com/) |
 
-AI-powered stadium operations assistant for major sporting events — intelligent navigation, crowd management, multilingual support, accessibility, emergency response, and real-time operational insights powered by Generative AI.
+<details>
+<summary><b>🎯 How I think about a good build</b></summary>
+<br />
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pragyaamishraa&repo=StadiumGuard-AI&theme=nord&border_color=f472b6&title_color=f472b6&text_color=c9d1d9&icon_color=7c3aed" />
-</div>
+1. Start with the person and the moment—not the framework.
+2. Make the first useful version real quickly.
+3. Let feedback shape the next iteration.
+4. Sweat the edge cases until the experience feels calm.
 
-| Layer | Technology |
-|---|---|
-| AI / Generative AI | Generative AI (LLM-powered insights) |
-| Backend | Python |
-| Core Features | Navigation, Crowd Management, Multilingual Support, Accessibility, Emergency Response |
+</details>
 
-🔗 [Live](https://stadium-guard-ai.vercel.app/) &nbsp;•&nbsp; 💻 [Code](https://github.com/pragyaamishraa/StadiumGuard-AI)
+<br />
 
-<br/>
+<a id="toolbelt"></a>
 
-### 2️⃣ DecideFast
-
-A Flask + Gemini 2.5 Flash powered data intelligence tool — upload a CSV and get grounded, three-part decisions instantly.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pragyaamishraa&repo=DecideFast&theme=nord&border_color=f472b6&title_color=f472b6&text_color=c9d1d9&icon_color=7c3aed" />
-</div>
-
-| Layer | Technology |
-|---|---|
-| Backend | Flask (Python) |
-| AI | Google Gemini 2.5 Flash |
-| Data | CSV ingestion & analysis |
-
-🔗 [Live](https://decidefast.onrender.com/) &nbsp;•&nbsp; 💻 [Code](https://github.com/pragyaamishraa/DecideFast)
-
-<br/>
-
-### 3️⃣ DeskShare
-
-A real-time collaborative whiteboard for seamless teamwork and idea-sharing.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pragyaamishraa&repo=DeskShare&theme=nord&border_color=f472b6&title_color=f472b6&text_color=c9d1d9&icon_color=7c3aed" />
-</div>
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js |
-| Backend | Node.js |
-| Database / Realtime | Firebase |
-
-🔗 [Live](https://deskhare-project.web.app/) &nbsp;•&nbsp; 💻 [Code](https://github.com/pragyaamishraa/DeskShare)
-
-<br/>
-
-### 4️⃣ PlaySic
-
-A Spotify-powered music web app built with OAuth 2.0 integration for a personalized listening experience.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pragyaamishraa&repo=Playsic&theme=nord&border_color=f472b6&title_color=f472b6&text_color=c9d1d9&icon_color=7c3aed" />
-</div>
-
-| Layer | Technology |
-|---|---|
-| Backend | Python, Flask |
-| Auth / API | Spotify OAuth 2.0 |
-| Config | python-dotenv |
-
-🔗 [Live](https://playsic-ybmz.onrender.com/) &nbsp;•&nbsp; 💻 [Code](https://github.com/pragyaamishraa/Playsic)
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7c3aed,100:f472b6&height=3&width=1000" width="100%"/>
-</div>
-
-## 🛠️ Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react" />
-
-**Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,git,github" />
-
-**AI / Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=gemini,firebase" />
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:7c3aed,100:000000&height=3&width=1000" width="100%"/>
-</div>
+## `> loadout --current`
 
 <div align="center">
 
-### 🔮 Today's Dev Wisdom
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,flask,nodejs,firebase,git,github&theme=dark&perline=9" alt="Python, JavaScript, TypeScript, React, Flask, Node.js, Firebase, Git, and GitHub" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<br /><br />
+
+`PYTHON` &nbsp; `JAVASCRIPT` &nbsp; `TYPESCRIPT` &nbsp; `REACT` &nbsp; `FLASK` &nbsp; `NODE.JS` &nbsp; `FIREBASE` &nbsp; `GEMINI` &nbsp; `GIT`
 
 </div>
 
-## 📊 GitHub Stats
+<br />
+
+<a id="behind-the-build"></a>
+
+## `> git log --human`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pragyaamishraa&show_icons=true&theme=nord&border_color=f472b6&title_color=f472b6&text_color=c9d1d9&icon_color=7c3aed" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyaamishraa&layout=compact&theme=nord&border_color=f472b6&title_color=f472b6&text_color=c9d1d9" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=pragyaamishraa&theme=nord&border=f472b6&stroke=f472b6&ring=7c3aed&fire=f472b6" />
+<img src="https://github-readme-stats.vercel.app/api?username=pragyaamishraa&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e&icon_color=f4c95d&ring_color=8b5cf6" alt="Pragya's GitHub statistics" height="165" />
+<img src="https://streak-stats.demolab.com?user=pragyaamishraa&hide_border=true&background=00000000&ring=f4c95d&fire=f4c95d&currStreakLabel=8b5cf6&sideLabels=8b949e&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc" alt="Pragya's GitHub contribution streak" height="165" />
 
 </div>
 
-## 🏆 Trophies
+<details>
+<summary><b>🐍 A tiny creature with a big appetite</b></summary>
+<br />
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pragyaamishraa&no-frame=true&no-bg=true&theme=radical&row=1&column=6" />
-</div>
+<img src="https://raw.githubusercontent.com/pragyaamishraa/pragyaamishraa/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating Pragya's GitHub contributions" width="100%" />
 
-## 📈 Contribution Activity
+<sub>Regenerated daily by GitHub Actions.</sub>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyaamishraa&theme=react-dark&color=f472b6&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
+</details>
 
-## 🐍 The Snake That Ate My Contributions
+<br />
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/pragyaamishraa/pragyaamishraa/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
+<a id="signal-me"></a>
 
-<sub align="center">⚙️ Regenerates daily via GitHub Actions — see setup note below the file.</sub>
+## `> ./start-a-conversation`
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7c3aed,100:f472b6&height=3&width=1000" width="100%"/>
-</div>
-
-## 🔗 Connect With Me
+I’m open to opportunities where ownership, learning, and impact matter. If you’re building something useful—or just want to trade ideas—my inbox is a good place to start.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragyamishraa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-f472b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pragyamishra.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=f472b6)](https://leetcode.com/impragya437)
-[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:impragya437@gmail.com)
+[![Email](https://img.shields.io/badge/SEND-A_MESSAGE-f4c95d?style=for-the-badge&labelColor=171923&logo=gmail&logoColor=white)](mailto:impragya437@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/FIND_ME-ON_LINKEDIN-8b5cf6?style=for-the-badge&labelColor=171923&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragyamishraa)
+[![LeetCode](https://img.shields.io/badge/CHECK_OUT-LEETCODE-35c3ff?style=for-the-badge&labelColor=171923&logo=leetcode&logoColor=white)](https://leetcode.com/impragya437)
 
-</div>
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:7c3aed,100:000000&height=150&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=pragyaamishraa&style=flat-square&color=8b5cf6&label=PROFILE+VISITORS" alt="Profile views" />
+
+<br /><br />
+
+<sub>Designed with intent. Built in public. Always learning.</sub>
 
 </div>
